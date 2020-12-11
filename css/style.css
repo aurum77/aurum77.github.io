@@ -1,0 +1,10 @@
+@font-face { font-family: JetBrains Mono; src: url('/css/fonts/JetBrainsMono-Regular.woff2');}
+@font-face { font-family: Fira Code; src: url('/css/fonts/FiraCode-Regular.woff2');}
+
+body{
+    background-color: #24292E;
+}
+.greeting{
+    font-family: JetBrains Mono;
+    color: #C9DEE8;
+}
