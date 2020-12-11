@@ -7,3 +7,13 @@ body{
     font-family: JetBrains Mono;
     color: #C9DEE8;
 }
+.greeting h1{
+    font-size: 40px;
+}
+.navbar{
+    text-align: center;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 14px 16px;
+}
